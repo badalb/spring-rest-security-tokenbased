@@ -1,0 +1,2 @@
+rootProject.name = 'Rest-Security'
+include  "common-config", "rest-security-services","rest-security-web"
