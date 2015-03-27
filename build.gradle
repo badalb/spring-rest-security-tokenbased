@@ -13,6 +13,6 @@ subprojects {
     version = '1.0'
 
     jar {
-        manifest.attributes provider: 'home-union'
+        manifest.attributes provider: 'test'
     }
 }
